@@ -6,10 +6,20 @@
 
 ### PhD Student · Emotional Support Conversation · Personalized Alignment
 
-<img
-  alt="pixel github stats"
-  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=crt&screen_effect=true&pixelate_avatar=false"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&screen_effect=true&theme=blue_chill&pixelate_avatar=false"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=rainbow&pixelate_avatar=false"
+  />
+  <img
+    alt="pixel github stats"
+    src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&screen_effect=true&theme=blue_chill&pixelate_avatar=false"
+  />
+</picture>
 
 </div>
 
