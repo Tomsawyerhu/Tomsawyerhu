@@ -1,10 +1,5 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="180" style="border-radius: 50%;" />
-
-# 👾 Haichuan Hu
-
-### PhD Student · Emotional Support Conversation · Personalized Alignment
 
 <img
   alt="pixel github stats"
