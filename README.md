@@ -1,21 +1,45 @@
 <div align="center">
 
-# 👾 Hi, I'm Haichuan Hu
+<img src="assets/avatar.png" width="180" style="border-radius: 50%;" />
+
+# 👾 Haichuan Hu
+
+### PhD Student · Emotional Support Conversation · Personalized Alignment
 
 <img
-  alt="github stats"
-  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=winter&pixelate_avatar=false"
+  alt="pixel github stats"
+  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=crt&screen_effect=true&pixelate_avatar=false"
 />
 
 </div>
 
-## 👋 About Me
+---
 
-I am currently a PhD student at The Hong Kong Polytechnic University (PolyU). My research interests include **emotional support conversation** and **personalized alignment**.
+## 🧠 About Me
 
-Previously, I conducted research in **software engineering**, with a focus on **code generation** and **code repair**.
+I am currently a PhD student at **The Hong Kong Polytechnic University (PolyU)**.
 
-I am continuously seeking research collaborators. Feel free to reach me at:
+My research interests focus on:
 
-- 📧 huhaichuan2024@gmail.com
-- 📧 haichuan.hu@connect.polyu.hk
+- 💬 **Emotional Support Conversation**
+- 🎯 **Personalized Alignment**
+- 🤖 Human-centered AI and conversational agents
+
+Previously, I conducted research in **software engineering**, including:
+
+- 🧩 Code Generation
+- 🛠️ Code Repair
+- 🔍 Program Understanding
+
+I am continuously seeking research collaborators who are interested in emotional support systems, personalized AI, and human-centered language models.
+
+---
+
+## 🕹️ Research Interests
+
+```txt
+> Emotional Support Conversation
+> Personalized Alignment
+> Human-AI Interaction
+> Code Generation
+> Code Repair
