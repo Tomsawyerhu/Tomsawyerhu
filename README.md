@@ -8,7 +8,7 @@
 
 <img
   alt="pixel github stats"
-  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&screen_effect=true&theme=blue_chill&pixelate_avatar=false"
+  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&screen_effect=true&theme=monica&pixelate_avatar=false"
 />
 
 </div>
