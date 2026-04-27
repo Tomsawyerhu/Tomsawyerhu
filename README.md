@@ -3,7 +3,7 @@
 
 <img
   alt="pixel github stats"
-  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=summer&pixelate_avatar=false"
+  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=fuji&pixelate_avatar=false"
 />
 
 </div>
