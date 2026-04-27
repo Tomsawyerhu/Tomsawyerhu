@@ -4,8 +4,7 @@
 
 <img
   alt="github stats"
-  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=rainbow
-&pixelate_avatar=false"
+  src="https://pixel-profile.vercel.app/api/github-stats?username=Tomsawyerhu&theme=rainbow&pixelate_avatar=false"
 />
 
 </div>
